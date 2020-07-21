@@ -1,1 +1,2 @@
-console.log('This is javascript!');
+console.log('Hi my name is Aidan');
+//hehehaha
